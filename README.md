@@ -1,5 +1,5 @@
 # Images
-![Sniper]([https://img.imgyukle.com/2023/07/15/rGaM0A.png])
+![Sniper]([https://resmim.net/cdn/2023/07/15/S8Ku53.png])
 ## Model:
 * Data: MNIST
 * Tür: ConvNet
