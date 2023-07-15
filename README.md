@@ -1,6 +1,2 @@
-# FAST VANITY SNIPER
-
-This sniper I developed is approximately 0.0675ms.
-If you run this sniper on 1ms vds, you will get full performance.
-You can remove the rate limit if you try (I was lazy)
-It is mandatory to put 2 urls otherwise the sniper will not work.
+# Image
+<img src="https://img.imgyukle.com/2023/07/15/rGaM0A.png" alt="alt text" width="320" height="180">
